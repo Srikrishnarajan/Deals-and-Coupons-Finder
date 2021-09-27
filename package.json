@@ -1,8 +1,8 @@
 {
-  "name": "coupons",
+  "name": "products",
   "version": "1.0.0",
-  "description": "coupons-microservice",
-  "main": "coupons.js",
+  "description": "products-microservice",
+  "main": "products.js",
   "scripts": {
     "test": "mocha"
   },
@@ -14,8 +14,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mocha": "^9.1.2",
-    "mongoose": "^6.0.7",
-    "request": "^2.88.2"
+    "mongoose": "^6.0.7"
   },
   "devDependencies": {
     "chai-http": "^4.3.0"
